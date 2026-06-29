@@ -1,0 +1,7 @@
+{
+    "event_type" :"SQL Injection",
+    "src_ip" : "192.168.1.23",
+    "dst_ip" : "10.10.5.20",
+    "dst_port" : 3306,
+    "severity" : "high"    
+}
