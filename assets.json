@@ -1,0 +1,16 @@
+{
+  "10.10.5.20": {
+    "asset_name": "用户登录系统",
+    "asset_type": "Web应用服务器",
+    "importance": "high",
+    "owner": "业务系统负责人",
+    "internet_exposed": true
+  },
+  "10.10.5.30": {
+    "asset_name": "测试服务器",
+    "asset_type": "Linux服务器",
+    "importance": "low",
+    "owner": "测试环境负责人",
+    "internet_exposed": false
+  }
+}

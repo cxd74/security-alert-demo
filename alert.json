@@ -1,7 +1,11 @@
 {
-    "event_type" :"SQL Injection",
-    "src_ip" : "192.168.1.50",
-    "dst_ip" : "10.10.5.30",
-    "dst_port" : 22,
-    "severity" : "medium"    
+  "alert_id": "A1001",
+  "device": "WAF",
+  "event_type": "SQL Injection",
+  "src_ip": "192.168.1.23",
+  "dst_ip": "10.10.5.20",
+  "dst_port": 443,
+  "url": "/login",
+  "severity": "high",
+  "time": "2026-06-30 14:30:00"
 }
